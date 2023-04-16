@@ -1,0 +1,157 @@
+#body{
+	padding-top: 1.5rem !important;
+	padding-bottom: 1.5rem;
+	position: relative;
+	padding: 0.5rem 1rem;
+	padding-right: 0;
+	padding-left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	background-color: transparent !important;
+	border: 0;
+	box-shadow: none;
+	color: rgba(0, 0, 0, 0.9);
+	background-color: #fff !important;
+	background-image: url("https://github.jklasdwd451.workers.dev/https://github.com/JKLASDWD/Picfloor/blob/main/Pic/img-1.jpg");
+}
+html {
+	line-height: 1.15;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-ms-overflow-style: scrollbar;
+	-webkit-tap-highlight-color: transparent;
+}
+#btn-primary {
+	width: 270px;
+	font-size: 25px;
+	padding: 1.5rem;
+	overflow-y: auto;
+	transition: transform 300ms, opacity 300ms;
+	color: #fff;
+	background: #288cff linear-gradient(180deg, #489dff, #288cff) repeat-x;
+	border-color: #288cff;
+	box-shadow: none;
+}
+#btn-primary:hover{
+    color: #fff;
+	background: #0278ff linear-gradient(180deg, #288cff, #0278ff) repeat-x;
+	border-color: #0071f4;
+}
+#btn-primary:focus,
+#btn-primary.focus {
+	box-shadow: none, 0 0 0 0 rgba(40, 140, 255, 0.5);
+}
+#btn-primary-1 {
+	width: 270px;
+	font-size: 25px;
+	padding: 1.5rem;
+	overflow-y: auto;
+	transition: transform 300ms, opacity 300ms;
+	color: #fff;
+	background: #288cff linear-gradient(180deg, #489dff, #288cff) repeat-x;
+	border-color: #288cff;
+	box-shadow: none;
+}
+#btn-primary-1:hover{
+    color: #fff;
+	background: #0278ff linear-gradient(180deg, #288cff, #0278ff) repeat-x;
+	border-color: #0071f4;
+}
+#btn-primary-1:focus,
+#btn-primary-1.focus {
+	box-shadow: none, 0 0 0 0 rgba(40, 140, 255, 0.5);
+}
+#gallery-1{
+	margin-left:30px;
+	background:white;
+	width:700px;
+	height:700px;
+	border:2px solid gray;
+	border-radius: 5px;
+}
+
+#btn-primary-2 {
+	font-size: 25px;
+	width: 720px;
+	height: 100px;
+	color: #fff;
+	background: #288cff linear-gradient(180deg, #489dff, #288cff) repeat-x;
+	border-color: #288cff;
+	box-shadow: none;
+}
+#btn-primary-2:hover {
+	color: #fff;
+	background: #0278ff linear-gradient(180deg, #288cff, #0278ff) repeat-x;
+	border-color: #0071f4;
+}
+#btn-primary-2:focus,
+#btn-primary-2.focus {
+	box-shadow: none, 0 0 0 0 rgba(40, 140, 255, 0.5);
+}
+
+#input-text-1{
+	padding: 0.75rem 1rem;
+}
+
+
+#btn-primary-3 {
+	font-size: 25px;
+	width: 720px;
+	height: 100px;
+	color: #fff;
+	background: #288cff linear-gradient(180deg, #489dff, #288cff) repeat-x;
+	border-color: #288cff;
+	box-shadow: none;
+}
+#btn-primary-3:hover {
+	color: #fff;
+	background: #0278ff linear-gradient(180deg, #288cff, #0278ff) repeat-x;
+	border-color: #0071f4;
+}
+#btn-primary-3:focus,
+#btn-primary-3.focus {
+	box-shadow: none, 0 0 0 0 rgba(40, 140, 255, 0.5);
+}
+#gallery-2{
+	margin-left:30px;
+	background:white;
+	width:700px;
+	height:700px;
+	border:2px solid gray;
+	border-radius: 5px;
+}
+#gallery-3{
+	margin-left:0px;
+	background:white;
+	border:2px solid gray;
+	border-radius: 5px;
+}
+#title p{
+	padding: 0px;
+	text-align: center;
+	font-size: 45px;
+}
+#title2 p{
+	text-align: center;
+	font-size: 20px;
+	padding: 0px;
+}
+#test-1>div>div>button{
+	margin-left: 20px;
+	width: 720px;
+	font-size: 25px;
+	padding: 1.5rem;
+	overflow-y: auto;
+	transition: transform 300ms, opacity 300ms;
+	color: #fff;
+	background: #288cff linear-gradient(180deg, #489dff, #288cff) repeat-x;
+	border-color: #288cff;
+	box-shadow: none;
+}
+#test-1 span{
+	font-size: 25px;
+}
+#title-bg{
+	background-image:url("https://github.jklasdwd451.workers.dev/https://github.com/JKLASDWD/Picfloor/blob/main/Pic/img-1.jpg");
+}
